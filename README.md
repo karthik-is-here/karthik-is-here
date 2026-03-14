@@ -46,11 +46,11 @@ i'm a student passionate about **machine learning** and building things that sit
 ## github stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=a3e635&icon_color=a3e635&text_color=9ca3af&hide=contribs" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=a3e635&text_color=9ca3af&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=karthik-is-here&show_icons=true&theme=transparent&hide_border=true&title_color=a3e635&icon_color=a3e635&text_color=9ca3af&hide=contribs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-is-here&layout=compact&theme=transparent&hide_border=true&title_color=a3e635&text_color=9ca3af&langs_count=6" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=a3e635&fire=a3e635&currStreakLabel=a3e635&sideLabels=9ca3af&dates=6b7280&stroke=1f2937" />
+<img src="https://streak-stats.demolab.com?user=karthik-is-here&theme=transparent&hide_border=true&ring=a3e635&fire=a3e635&currStreakLabel=a3e635&sideLabels=9ca3af&dates=6b7280&stroke=1f2937" />
 
 ---
 
