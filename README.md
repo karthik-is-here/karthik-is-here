@@ -11,7 +11,6 @@ i'm a student passionate about **machine learning** and building things that sit
 - 🧠 focused on **applied ML** — from raw data to deployed systems
 - 🌊 based in **Kochi, Kerala**
 - 📖 always reading, always experimenting
-- 🚧 currently: traffic intelligence & prediction systems
 
 ---
 
